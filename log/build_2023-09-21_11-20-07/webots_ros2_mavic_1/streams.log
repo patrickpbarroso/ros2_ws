@@ -1,0 +1,15 @@
+[0.981s] Invoking command in '/home/patrick/ros2_ws/src/webots_ros2_mavic_1': PYTHONPATH=/home/patrick/ros2_ws/src/build/webots_ros2_mavic_1/prefix_override:/home/patrick/ros2_ws/src/install/webots_ros2_mavic_1/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/webots_ros2_mavic_1 build --build-base /home/patrick/ros2_ws/src/build/webots_ros2_mavic_1/build install --record /home/patrick/ros2_ws/src/build/webots_ros2_mavic_1/install.log --single-version-externally-managed
+[1.369s] running egg_info
+[1.370s] creating ../build/webots_ros2_mavic_1/webots_ros2_mavic_1.egg-info
+[1.372s] writing manifest file '../build/webots_ros2_mavic_1/webots_ros2_mavic_1.egg-info/SOURCES.txt'
+[1.379s] writing manifest file '../build/webots_ros2_mavic_1/webots_ros2_mavic_1.egg-info/SOURCES.txt'
+[1.379s] running build
+[1.379s] running build_py
+[1.380s] running install
+[1.381s] running install_lib
+[1.386s] running install_data
+[1.388s] running install_egg_info
+[1.393s] Copying ../build/webots_ros2_mavic_1/webots_ros2_mavic_1.egg-info to /home/patrick/ros2_ws/src/install/webots_ros2_mavic_1/lib/python3.10/site-packages/webots_ros2_mavic_1-0.0.0-py3.10.egg-info
+[1.395s] running install_scripts
+[1.431s] writing list of installed files to '/home/patrick/ros2_ws/src/build/webots_ros2_mavic_1/install.log'
+[1.492s] Invoked command in '/home/patrick/ros2_ws/src/webots_ros2_mavic_1' returned '0': PYTHONPATH=/home/patrick/ros2_ws/src/build/webots_ros2_mavic_1/prefix_override:/home/patrick/ros2_ws/src/install/webots_ros2_mavic_1/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/webots_ros2_mavic_1 build --build-base /home/patrick/ros2_ws/src/build/webots_ros2_mavic_1/build install --record /home/patrick/ros2_ws/src/build/webots_ros2_mavic_1/install.log --single-version-externally-managed

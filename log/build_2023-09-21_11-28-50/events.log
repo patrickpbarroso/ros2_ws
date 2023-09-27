@@ -1,0 +1,48 @@
+[0.000000] (-) TimerEvent: {}
+[0.001257] (-) JobUnselected: {'identifier': 'ardupilot_sitl_gazebo'}
+[0.001383] (-) JobUnselected: {'identifier': 'my_package'}
+[0.002687] (-) JobUnselected: {'identifier': 'ros_gz'}
+[0.002736] (-) JobUnselected: {'identifier': 'ros_gz_bridge'}
+[0.002773] (-) JobUnselected: {'identifier': 'ros_gz_image'}
+[0.002811] (-) JobUnselected: {'identifier': 'ros_gz_interfaces'}
+[0.002847] (-) JobUnselected: {'identifier': 'ros_gz_sim'}
+[0.002882] (-) JobUnselected: {'identifier': 'ros_gz_sim_demos'}
+[0.002918] (-) JobUnselected: {'identifier': 'ros_ign'}
+[0.002953] (-) JobUnselected: {'identifier': 'ros_ign_bridge'}
+[0.002988] (-) JobUnselected: {'identifier': 'ros_ign_gazebo'}
+[0.003023] (-) JobUnselected: {'identifier': 'ros_ign_gazebo_demos'}
+[0.003058] (-) JobUnselected: {'identifier': 'ros_ign_image'}
+[0.003093] (-) JobUnselected: {'identifier': 'ros_ign_interfaces'}
+[0.003132] (webots_ros2_mavic_1) JobQueued: {'identifier': 'webots_ros2_mavic_1', 'dependencies': OrderedDict()}
+[0.003175] (webots_ros2_mavic_1) JobStarted: {'identifier': 'webots_ros2_mavic_1'}
+[0.099425] (-) TimerEvent: {}
+[0.200004] (-) TimerEvent: {}
+[0.300511] (-) TimerEvent: {}
+[0.400929] (-) TimerEvent: {}
+[0.501406] (-) TimerEvent: {}
+[0.601933] (-) TimerEvent: {}
+[0.702390] (-) TimerEvent: {}
+[0.802879] (-) TimerEvent: {}
+[0.903298] (-) TimerEvent: {}
+[1.003705] (-) TimerEvent: {}
+[1.006738] (webots_ros2_mavic_1) Command: {'cmd': ['/usr/bin/python3', 'setup.py', 'egg_info', '--egg-base', '../build/webots_ros2_mavic_1', 'build', '--build-base', '/home/patrick/ros2_ws/src/build/webots_ros2_mavic_1/build', 'install', '--record', '/home/patrick/ros2_ws/src/build/webots_ros2_mavic_1/install.log', '--single-version-externally-managed'], 'cwd': '/home/patrick/ros2_ws/src/webots_ros2_mavic_1', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'USER': 'patrick', 'XDG_SESSION_TYPE': 'wayland', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/home/patrick/ros2_ws/install/ros_gz_sim/lib:/home/patrick/ros2_ws/install/ros_gz_interfaces/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib', 'HOME': '/home/patrick', 'OLDPWD': '/home/patrick', 'DESKTOP_SESSION': 'ubuntu', 'ROS_PYTHON_VERSION': '3', 'GNOME_SHELL_SESSION_MODE': 'ubuntu', 'GTK_MODULES': 'gail:atk-bridge', 'SYSTEMD_EXEC_PID': '1802', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'COLORTERM': 'truecolor', 'IM_CONFIG_PHASE': '1', 'WAYLAND_DISPLAY': 'wayland-0', 'COLCON_PREFIX_PATH': '/home/patrick/ros2_ws/install:/home/patrick/ros2_udemy/install', 'ROS_DISTRO': 'humble', 'LOGNAME': 'patrick', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'XDG_SESSION_CLASS': 'user', 'USERNAME': 'patrick', 'TERM': 'xterm-256color', 'GNOME_DESKTOP_SESSION_ID': 'this-is-deprecated', 'ROS_LOCALHOST_ONLY': '0', 'PATH': '/opt/ros/humble/bin:/home/patrick/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin', 'SESSION_MANAGER': 'local/ubuntu-patrick:@/tmp/.ICE-unix/1773,unix/ubuntu-patrick:/tmp/.ICE-unix/1773', 'XDG_MENU_PREFIX': 'gnome-', 'GNOME_TERMINAL_SCREEN': '/org/gnome/Terminal/screen/99ef17dd_66b8_4b88_99fa_0d3925b45b05', 'GNOME_SETUP_DISPLAY': ':1', 'XDG_RUNTIME_DIR': '/run/user/1000', 'WEBOTS_DISABLE_SAVE_SCREEN_PERSPECTIVE_ON_CLOSE': '1', 'DISPLAY': ':0', 'LANG': 'en_US.UTF-8', 'XDG_CURRENT_DESKTOP': 'ubuntu:GNOME', 'XMODIFIERS': '@im=ibus', 'XDG_SESSION_DESKTOP': 'ubuntu', 'XAUTHORITY': '/run/user/1000/.mutter-Xwaylandauth.P1MDB2', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'GNOME_TERMINAL_SERVICE': ':1.1050', 'ROS2_DISTRO': 'humble', 'SSH_AGENT_LAUNCHER': 'gnome-keyring', 'SSH_AUTH_SOCK': '/run/user/1000/keyring/ssh', 'AMENT_PREFIX_PATH': '/home/patrick/ros2_udemy/install/my_py_pkg:/home/patrick/ros2_udemy/install/my_cpp_pkg:/home/patrick/ros2_ws/install/webots_ros2_mavic_1:/home/patrick/ros2_ws/install/ros_ign_gazebo:/home/patrick/ros2_ws/install/ros_gz_sim:/home/patrick/ros2_ws/install/ros_gz_interfaces:/home/patrick/ros2_ws/install/my_package:/opt/ros/humble', 'SHELL': '/bin/bash', 'QT_ACCESSIBILITY': '1', 'GDMSESSION': 'ubuntu', 'WEBOTS_HOME': '/home/patrick/webots', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'QT_IM_MODULE': 'ibus', 'JAVA_HOME': '/usr/lib/jvm/java-11-openjdk-amd64', 'PWD': '/home/patrick/ros2_ws/src/build/webots_ros2_mavic_1', 'LC_ALL': 'en_US.UTF-8', 'XDG_CONFIG_DIRS': '/etc/xdg/xdg-ubuntu:/etc/xdg', 'XDG_DATA_DIRS': '/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop', 'PYTHONPATH': '/home/patrick/ros2_ws/src/build/webots_ros2_mavic_1/prefix_override:/home/patrick/ros2_ws/src/install/webots_ros2_mavic_1/lib/python3.10/site-packages:/home/patrick/ros2_udemy/install/my_py_pkg/lib/python3.10/site-packages:/home/patrick/ros2_ws/install/webots_ros2_mavic_1/lib/python3.10/site-packages:/home/patrick/ros2_ws/install/ros_gz_interfaces/local/lib/python3.10/dist-packages:/home/patrick/ros2_ws/install/my_package/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages', 'COLCON': '1', 'VTE_VERSION': '6800', 'WEBOTS_ALLOW_MODIFY_INSTALLATION': '1', 'CMAKE_PREFIX_PATH': '/home/patrick/ros2_udemy/install/my_cpp_pkg:/home/patrick/ros2_ws/install/ros_ign_gazebo:/home/patrick/ros2_ws/install/ros_gz_sim:/home/patrick/ros2_ws/install/ros_gz_interfaces'}, 'shell': False}
+[1.103840] (-) TimerEvent: {}
+[1.204213] (-) TimerEvent: {}
+[1.304610] (-) TimerEvent: {}
+[1.405007] (-) TimerEvent: {}
+[1.416041] (webots_ros2_mavic_1) StdoutLine: {'line': b'running egg_info\n'}
+[1.420576] (webots_ros2_mavic_1) StdoutLine: {'line': b"writing manifest file '../build/webots_ros2_mavic_1/webots_ros2_mavic_1.egg-info/SOURCES.txt'\n"}
+[1.420886] (webots_ros2_mavic_1) StdoutLine: {'line': b'running build\n'}
+[1.421032] (webots_ros2_mavic_1) StdoutLine: {'line': b'running build_py\n'}
+[1.421214] (webots_ros2_mavic_1) StdoutLine: {'line': b'running install\n'}
+[1.421989] (webots_ros2_mavic_1) StdoutLine: {'line': b'running install_lib\n'}
+[1.423465] (webots_ros2_mavic_1) StdoutLine: {'line': b'running install_data\n'}
+[1.424492] (webots_ros2_mavic_1) StdoutLine: {'line': b'running install_egg_info\n'}
+[1.426726] (webots_ros2_mavic_1) StdoutLine: {'line': b"removing '/home/patrick/ros2_ws/src/install/webots_ros2_mavic_1/lib/python3.10/site-packages/webots_ros2_mavic_1-0.0.0-py3.10.egg-info' (and everything under it)\n"}
+[1.427076] (webots_ros2_mavic_1) StdoutLine: {'line': b'Copying ../build/webots_ros2_mavic_1/webots_ros2_mavic_1.egg-info to /home/patrick/ros2_ws/src/install/webots_ros2_mavic_1/lib/python3.10/site-packages/webots_ros2_mavic_1-0.0.0-py3.10.egg-info\n'}
+[1.428437] (webots_ros2_mavic_1) StdoutLine: {'line': b'running install_scripts\n'}
+[1.459107] (webots_ros2_mavic_1) StdoutLine: {'line': b"writing list of installed files to '/home/patrick/ros2_ws/src/build/webots_ros2_mavic_1/install.log'\n"}
+[1.505173] (-) TimerEvent: {}
+[1.510059] (webots_ros2_mavic_1) CommandEnded: {'returncode': 0}
+[1.530922] (webots_ros2_mavic_1) JobEnded: {'identifier': 'webots_ros2_mavic_1', 'rc': 0}
+[1.532492] (-) EventReactorShutdown: {}

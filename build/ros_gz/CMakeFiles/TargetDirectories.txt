@@ -1,0 +1,9 @@
+/home/patrick/ros2_ws/src/build/ros_gz/CMakeFiles/uninstall.dir
+/home/patrick/ros2_ws/src/build/ros_gz/CMakeFiles/ros_gz_uninstall.dir
+/home/patrick/ros2_ws/src/build/ros_gz/CMakeFiles/test.dir
+/home/patrick/ros2_ws/src/build/ros_gz/CMakeFiles/edit_cache.dir
+/home/patrick/ros2_ws/src/build/ros_gz/CMakeFiles/rebuild_cache.dir
+/home/patrick/ros2_ws/src/build/ros_gz/CMakeFiles/list_install_components.dir
+/home/patrick/ros2_ws/src/build/ros_gz/CMakeFiles/install.dir
+/home/patrick/ros2_ws/src/build/ros_gz/CMakeFiles/install/local.dir
+/home/patrick/ros2_ws/src/build/ros_gz/CMakeFiles/install/strip.dir

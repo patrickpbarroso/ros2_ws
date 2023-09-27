@@ -1,0 +1,29 @@
+[0.000000] (-) TimerEvent: {}
+[0.000252] (-) JobUnselected: {'identifier': 'ardupilot_sitl_gazebo'}
+[0.000323] (-) JobUnselected: {'identifier': 'ros_gz'}
+[0.000381] (-) JobUnselected: {'identifier': 'ros_gz_bridge'}
+[0.000437] (-) JobUnselected: {'identifier': 'ros_gz_image'}
+[0.000490] (-) JobUnselected: {'identifier': 'ros_gz_interfaces'}
+[0.000544] (-) JobUnselected: {'identifier': 'ros_gz_sim'}
+[0.000598] (-) JobUnselected: {'identifier': 'ros_gz_sim_demos'}
+[0.000643] (-) JobUnselected: {'identifier': 'ros_ign'}
+[0.000690] (-) JobUnselected: {'identifier': 'ros_ign_bridge'}
+[0.000735] (-) JobUnselected: {'identifier': 'ros_ign_gazebo'}
+[0.000780] (-) JobUnselected: {'identifier': 'ros_ign_gazebo_demos'}
+[0.000837] (-) JobUnselected: {'identifier': 'ros_ign_image'}
+[0.000891] (-) JobUnselected: {'identifier': 'ros_ign_interfaces'}
+[0.000941] (-) JobUnselected: {'identifier': 'webots_ros2_control'}
+[0.000984] (-) JobUnselected: {'identifier': 'webots_ros2_driver'}
+[0.001031] (-) JobUnselected: {'identifier': 'webots_ros2_epuck'}
+[0.001077] (-) JobUnselected: {'identifier': 'webots_ros2_importer'}
+[0.001123] (-) JobUnselected: {'identifier': 'webots_ros2_mavic'}
+[0.001169] (-) JobUnselected: {'identifier': 'webots_ros2_msgs'}
+[0.001216] (-) JobUnselected: {'identifier': 'webots_ros2_tesla'}
+[0.001262] (-) JobUnselected: {'identifier': 'webots_ros2_tests'}
+[0.001308] (-) JobUnselected: {'identifier': 'webots_ros2_tiago'}
+[0.001353] (-) JobUnselected: {'identifier': 'webots_ros2_turtlebot'}
+[0.001398] (-) JobUnselected: {'identifier': 'webots_ros2_universal_robot'}
+[0.001450] (webots_ros2) JobQueued: {'identifier': 'webots_ros2', 'dependencies': OrderedDict([('webots_ros2_importer', '/home/patrick/ros2_ws/src/install/webots_ros2_importer'), ('webots_ros2_msgs', '/home/patrick/ros2_ws/src/install/webots_ros2_msgs'), ('webots_ros2_driver', '/home/patrick/ros2_ws/src/install/webots_ros2_driver'), ('webots_ros2_control', '/home/patrick/ros2_ws/src/install/webots_ros2_control'), ('webots_ros2_mavic', '/home/patrick/ros2_ws/src/install/webots_ros2_mavic'), ('webots_ros2_tesla', '/home/patrick/ros2_ws/src/install/webots_ros2_tesla'), ('webots_ros2_epuck', '/home/patrick/ros2_ws/src/install/webots_ros2_epuck'), ('webots_ros2_tiago', '/home/patrick/ros2_ws/src/install/webots_ros2_tiago'), ('webots_ros2_turtlebot', '/home/patrick/ros2_ws/src/install/webots_ros2_turtlebot'), ('webots_ros2_universal_robot', '/home/patrick/ros2_ws/src/install/webots_ros2_universal_robot'), ('webots_ros2_tests', '/home/patrick/ros2_ws/src/install/webots_ros2_tests')])}
+[0.001539] (webots_ros2) JobStarted: {'identifier': 'webots_ros2'}
+[0.021407] (webots_ros2) JobEnded: {'identifier': 'webots_ros2', 'rc': 1}
+[0.032039] (-) EventReactorShutdown: {}

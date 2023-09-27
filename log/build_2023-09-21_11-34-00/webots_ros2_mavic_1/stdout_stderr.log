@@ -1,0 +1,18 @@
+running egg_info
+writing manifest file '../build/webots_ros2_mavic_1/webots_ros2_mavic_1.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+creating /home/patrick/ros2_ws/src/install/webots_ros2_mavic_1/share/webots_ros2_mavic_1/launch
+copying launch/robot_launch.py -> /home/patrick/ros2_ws/src/install/webots_ros2_mavic_1/share/webots_ros2_mavic_1/launch
+creating /home/patrick/ros2_ws/src/install/webots_ros2_mavic_1/share/webots_ros2_mavic_1/worlds
+copying worlds/mavic_world.wbt -> /home/patrick/ros2_ws/src/install/webots_ros2_mavic_1/share/webots_ros2_mavic_1/worlds
+creating /home/patrick/ros2_ws/src/install/webots_ros2_mavic_1/share/webots_ros2_mavic_1/resource
+copying resource/mavic_webots.urdf -> /home/patrick/ros2_ws/src/install/webots_ros2_mavic_1/share/webots_ros2_mavic_1/resource
+running install_egg_info
+removing '/home/patrick/ros2_ws/src/install/webots_ros2_mavic_1/lib/python3.10/site-packages/webots_ros2_mavic_1-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../build/webots_ros2_mavic_1/webots_ros2_mavic_1.egg-info to /home/patrick/ros2_ws/src/install/webots_ros2_mavic_1/lib/python3.10/site-packages/webots_ros2_mavic_1-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/patrick/ros2_ws/src/build/webots_ros2_mavic_1/install.log'
